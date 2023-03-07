@@ -1,2 +1,2 @@
 another readme file 0x03-git
-README update from github.com
+readme update from github.com
